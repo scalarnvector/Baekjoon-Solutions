@@ -9,4 +9,5 @@
 ![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=wings2247)
   
 본 저장소는 매일 업데이트됩니다.
+
 未来计划用中文撰写解题思路！
